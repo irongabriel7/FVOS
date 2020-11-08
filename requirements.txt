@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+
+# base ----------------------------------------
+gspread
+oauth2client
+twilio
+pillow
